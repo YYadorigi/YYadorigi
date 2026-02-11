@@ -1,4 +1,4 @@
-## About Me
+# About Yadorigi
 
 - Undergraduate studying Computer Science and Technology at Tsinghua University
 
